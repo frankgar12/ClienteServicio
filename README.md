@@ -25,7 +25,7 @@ de acuerdo a la petición retorna los resultados al cliente.
 
 # Imagenes
 
-![Captura de la interfaz](https://drive.google.com/file/d/1TSwhfaK4SLxsAypkZWTdadSBbWqkh3T_/view?usp=sharing/cliente2.png)
+![Captura de la interfaz]()
 
 # Integrantes
 Avendaño Martinez Gustavo Israel 
