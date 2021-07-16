@@ -1,9 +1,9 @@
 # API REST
-Cliente 
+Cliente Api
 
 # sinopsis
 Cliente. 
-Se utiliza para realizar las peticiones cuenta con un get donde realiza un query para filtrar los datos de acuerdo a como realiza la 
+Se utiliza para realizar las peticiones a los servicios con un get donde realiza un query para filtrar los datos de acuerdo a como realiza la 
 peticion el cliente hacia los datos de los servicios.
 
 
