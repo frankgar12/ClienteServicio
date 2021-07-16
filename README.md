@@ -21,7 +21,7 @@ de acuerdo a la petición retorna los resultados al cliente.
 
 # Imagenes
 
-![alt text](https://drive.google.com/file/d/1UDAWzyh8FciMfu3wRdOfP31-1dofogZT/view?usp=sharing)
+![alt url](https://drive.google.com/file/d/1UDAWzyh8FciMfu3wRdOfP31-1dofogZT/view?usp=sharing)
 
 # Integrantes
 Avendaño Martinez Gustavo Israel 
