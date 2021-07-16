@@ -12,7 +12,11 @@ NodeJs
 
 React
 
-Se puedén instalar con npm install y react
+material-ui 
+
+react-dom
+
+Se puedén instalar con npm install 
 
 # Uso 
 Se utiliza para realizar la consulta de las peticiones de un cliente y el servidor  
