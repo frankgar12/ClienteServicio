@@ -25,7 +25,7 @@ de acuerdo a la petición retorna los resultados al cliente.
 
 # Imagenes
 
-![Captura de la interfaz]()
+![Captura de la interfaz](https://github.com/frankgar12/ClienteServicio/blob/master/imagen/cliente2.png)
 
 # Integrantes
 Avendaño Martinez Gustavo Israel 
@@ -34,6 +34,6 @@ García Hernández Francisco de Jesus
 
 Gerónimo Aparicio Elvia 
 
-Hernández Lascares Humberto 
+Hernández Lascarez Humberto 
 
 Martínez León Daniel 
